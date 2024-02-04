@@ -1,11 +1,14 @@
-### Hi there 👋
+##  🤖 Hi, I'm Bassim, an IT Professional from New York
+- 🔭 **I’m currently working on:** the thrid version of my personal blog/portfolio website built with Astro and TailwindCSS - [astroSite](https://github.com/AVGVSTVS96/astroSite/).
 
+- 🖥️ **I built:** [FastGPT](https://github.com/AVGVSTVS96/fastGPT/), a lightweight FastAPI based OpenAI GPT3.5/4 client with features like streaming, chat history, system message customization, and syntax highlighting.
+
+- 🌱 **I’m currently learning:** web development with technologies like Astro, TailwindCSS, JavaScript, and TypeScript. I'm also an avid student of history, philosophy, and political science.
+
+- ⚡ **Interests:** I have a wide range of interests and hobbies including 3D printing and design, drone building and flying, marketing, photography, investing, PC hardware, cars and racing, sim racing, gaming, and programming, of course!
+
+- 📫 **How to reach me:** Email me at bassim@shahidy.com
 <!--
-**AVGVSTVS96/avgvstvs96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
