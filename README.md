@@ -1,7 +1,7 @@
 ##  🤖 Hi, I'm Bassim, an IT Professional from New York
 - ⚡ **Interests:** I have a wide range of interests and hobbies including 3D printing and design, drone building and flying, marketing, photography, investing, PC hardware, cars and racing, sim racing, gaming, and programming, of course! I'm also an avid student of history, philosophy, and political science.
 
-- 🔭 **I’m currently working on:** the third version of my personal blog/portfolio website built with Astro and TailwindCSS - [astroSite](https://github.com/AVGVSTVS96/astroSite/).
+- 🔭 **I’m currently working on:** the third version of my personal blog/portfolio website built with Astro and TailwindCSS - [astroSite](https://github.com/AVGVSTVS96/astroSite/). The [second version](https://github.com/AVGVSTVS96/v2-site/) of my personal website is deployed at [bassimshahidy.com](https://bassimshahidy.com) and is also built with Astro and TailwindCSS, although it's a much simpler single page site that I built when I started learning web development.
 
 - 🌱 **I’m currently learning:** web development with technologies like Astro, React, TailwindCSS, JavaScript, and TypeScript.
 
