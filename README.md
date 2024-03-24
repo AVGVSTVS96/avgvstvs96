@@ -11,7 +11,7 @@ I'm currently learning technologies like Astro, React, TailwindCSS, JavaScript, 
 ### 🖥️ **What I've built**
 [FastGPT](https://github.com/AVGVSTVS96/fastGPT/), a lightweight FastAPI based OpenAI GPT3.5/4 chat bot with features like streaming, system message customization, markdown, and syntax highlighting. I also have a Flask version called [flaskGPT](https://github.com/AVGVSTVS96/flaskGPT/), and attempted a React version called [reactGPT](https://github.com/AVGVSTVS96/reactGPT/), although reactGPT has some bugs because I've only just started delving into the world of JavaScript frameworks.
 
-> [!NOTE]
+> [!TIP]
 > 📫 How to reach me: bassim@shahidy.com
 
 <!--
