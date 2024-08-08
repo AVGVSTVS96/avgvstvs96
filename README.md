@@ -1,13 +1,19 @@
-##  🤖 Hi, I'm Bassim, an IT Professional from New York
+##  🤖 Hi, I'm Bassim, an IT Professional from New York learning software engineering
 
 ### ⚡ **Interests**
 I have a wide range of interests and hobbies including 3D printing and design, drone building and flying, marketing, photography, investing, PC hardware, cars and racing, sim racing, and gaming, in addition to programming. I'm also an avid student of history, philosophy, and political science.
 
 ### 🔭 **What I'm working on**
-I'm currently working on the third version of my personal blog/portfolio website built with Astro and TailwindCSS - [astroSite](https://github.com/AVGVSTVS96/astroSite/). The [second version](https://github.com/AVGVSTVS96/v2-site/) of my personal website is deployed at [bassimshahidy.com](https://bassimshahidy.com) and is also built with Astro and TailwindCSS, although it's a much simpler single page site that I built when I started learning web development. I'm also experimenting with shadcn/ui and react in [astro-shadcn](https://github.com/AVGVSTVS96/astro-shadcn/).
+I'm currently building [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/) a Shiki based syntax highlighter for React. I intend for this to become a near drop-in replacement for [`react-syntax-highlighter`](https://github.com/react-syntax-highlighter/react-syntax-highlighter), my first published package.
+
+I'm also working on improving an astro integration I published - [`astro-fouc-killer`](https://github.com/AVGVSTVS96/astro-fouc-killer/), an Astro integration which ensures class based dark mode styles are set and applied before initial render, eliminating flashes of unstyled content on page load.
 
 ### 🖥️ **What I've built**
-[FastGPT](https://github.com/AVGVSTVS96/fastGPT/), a lightweight FastAPI based OpenAI GPT3.5/4 chat bot with features like streaming, system message customization, markdown, and syntax highlighting. I also have a Flask version called [flaskGPT](https://github.com/AVGVSTVS96/flaskGPT/), and attempted a React version called [reactGPT](https://github.com/AVGVSTVS96/reactGPT/), although reactGPT has some bugs because I've only just started delving into the world of JavaScript frameworks.
+My first project as I started to learn how to program was [`flaskGPT`](https://github.com/AVGVSTVS96/flaskGPT/), an OpenAI GPT3.5/4 chat bot with features like streaming, system message customization, markdown, and syntax highlighting. I then converted it to [`FastGPT`](https://github.com/AVGVSTVS96/fastGPT/), and experimented with a [React version](https://github.com/AVGVSTVS96/reactGPT/).
+
+More recently, I've nearly completed my portfolio website [`astroSite`](https://github.com/AVGVSTVS96/astroSite/) which includes a much more refined GPT chat interface, blog, and a couple more playground pages. This portfolio site is a sandbox where I experiment and build new features, learning as I continue to improve and add to it.
+
+Through working on my portfolio site, I built the two packages mentioned above, [`astro-fouc-killer`](https://github.com/AVGVSTVS96/astro-fouc-killer/) and [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/).
 
 ### ⚙️ Skills and Technologies
 <div align="left">
