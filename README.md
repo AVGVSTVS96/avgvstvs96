@@ -1,12 +1,10 @@
-##  🤖 Hi, I'm Bassim, an IT Professional from New York learning software engineering
+##  🤖 Hi, I'm Bassim, an IT Professional and Software Engineer from New York
 
 ### ⚡ **Interests**
-I have a wide range of interests and hobbies including 3D printing and design, drone building and flying, marketing, photography, investing, PC hardware, cars and racing, sim racing, and gaming, in addition to programming. I'm also an avid student of history, philosophy, and political science.
+I have a passion for programming and web development, alongside a wide range of interests and hobbies including 3D printing/design, drone building/flying, photography, cars and racing, sim racing, and gaming. I'm also an avid student of history, philosophy, and political science.
 
 ### 🔭 **What I'm working on**
-I'm currently building [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/) a Shiki based syntax highlighter for React. I intend for this to become a near drop-in replacement for [`react-syntax-highlighter`](https://github.com/react-syntax-highlighter/react-syntax-highlighter), my first published package.
-
-I'm also working on improving an astro integration I published - [`astro-fouc-killer`](https://github.com/AVGVSTVS96/astro-fouc-killer/), an Astro integration which ensures class based dark mode styles are set and applied before initial render, eliminating flashes of unstyled content on page load.
+I'm currently building [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/) a Shiki based syntax highlighter for React. My goal is .
 
 ### 🖥️ **What I've built**
 My first project as I started to learn how to program was [`flaskGPT`](https://github.com/AVGVSTVS96/flaskGPT/), an OpenAI GPT3.5/4 chat bot with features like streaming, system message customization, markdown, and syntax highlighting. I then converted it to [`FastGPT`](https://github.com/AVGVSTVS96/fastGPT/), and experimented with a [React version](https://github.com/AVGVSTVS96/reactGPT/).
