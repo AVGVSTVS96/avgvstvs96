@@ -11,7 +11,7 @@ My first project as I started to learn how to program was [`flaskGPT`](https://g
 
 More recently, I've nearly completed my portfolio website [`astroSite`](https://github.com/AVGVSTVS96/astroSite/) which includes a much more refined GPT chat interface, blog, and a couple more playground pages. This portfolio site is a sandbox where I experiment and build new features, learning as I continue to improve and add to it.
 
-Through working on my portfolio site, I built the two packages mentioned above, [`astro-fouc-killer`](https://github.com/AVGVSTVS96/astro-fouc-killer/) and [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/).
+Through working on my portfolio site, I built [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/), and  [`astro-fouc-killer`](https://github.com/AVGVSTVS96/astro-fouc-killer/), a basic integration to eliminate flash of unstyled content (FOUC) with light/dark modes.
 
 ### ⚙️ Skills and Technologies
 <div align="left">
