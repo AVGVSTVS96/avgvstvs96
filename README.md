@@ -3,7 +3,7 @@
 ### 🔭 **What I'm working on**
 I'm currently building [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/), a performant and flexible syntax highlighter for React. It's goal is to provide a component API similar to [`react-syntax-highlighter`](https://github.com/react-syntax-highlighter/react-syntax-highlighter), alongside a more flexible React hook, leveraging the powerful and feature-rich [Shiki](https://github.com/shikijs/shiki) syntax highlighter. 
 
-I’m also contributing to [`assistant-ui`](https://github.com/assistant-ui/assistant-ui), where we’re focused on setting the gold standard for developer experience (DX) and accessibility in AI chat applications.
+I’m also a Founding Engineer at [`assistant-ui`](https://github.com/assistant-ui/assistant-ui), where we’re focused on setting the gold standard for developer experience (DX) and accessibility in AI chat applications.
 
 ### 📫 **How to reach me**
 - Email: bassim@shahidy.com
