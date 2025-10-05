@@ -1,5 +1,5 @@
-##  🤖 Hi, I'm Bassim
-I’m an open source developer obsessed with building bulletproof tools that feel effortless to use. I live for writing code that feels beautiful — thoughtful interfaces, smart design, and tools that _just work_.
+##  👋 Hi, I'm Bassim
+I’m an open source developer obsessed with building bulletproof tools that feel effortless to use.
 
 ### 🔭 **What I'm working on**
 I'm building [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/), a fast and flexible client-focused syntax highlighter for React. It provides a clean component API like [`react-syntax-highlighter`](https://github.com/react-syntax-highlighter/react-syntax-highlighter), alongside a more flexible React hook, bringing the modern, powerful [Shiki](https://github.com/shikijs/shiki) syntax highlighter to React in an elegant and intuitive package.
