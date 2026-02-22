@@ -1,30 +1,30 @@
-##  👋 Hi, I'm Bassim
-I’m an open source developer obsessed with building bulletproof tools that feel effortless to use.
+###  👋 Hi, I'm Bassim
+I’m an engineer obsessed with programming and open source; building stuff with code is my favorite hobby and I'm lucky enough to do it full time after moving from NY to SF in 2025!
 
-### 🔭 **What I'm working on**
-I'm building [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/), a fast and flexible client-focused syntax highlighter for React. It provides a clean component API like [`react-syntax-highlighter`](https://github.com/react-syntax-highlighter/react-syntax-highlighter), alongside a more flexible React hook, bringing the modern, powerful [Shiki](https://github.com/shikijs/shiki) syntax highlighter to React in an elegant and intuitive package.
+I'm the author and maintainer of the popular [`react-shiki`](https://github.com/AVGVSTVS96/react-shiki/) library, a fast and flexible [Shiki](https://github.com/shikijs/shiki) powered syntax highlighter for React which provides a clean, intuitive, and type-safe API for the best possible DX. It's especially useful for AI apps where performance is essential, like highlighting code as it's output is streamed to the client from an LLM.
 
-I’m also a Founding Engineer at [`assistant-ui`](https://github.com/assistant-ui/assistant-ui), where we’re raising the bar for developer experience (DX) and accessibility in AI chat. It’s a powerful SDK paired with a shadcn-style UI library, giving you everything you need to spin up an advanced, type-safe chat app with best-in-class design, accessibility, and performance. From a production-grade app in minutes to the most advanced workflows you can imagine, assistant-ui covers the full spectrum with a clean, composable API and exceptional DX.
+I’m also a Founding Engineer at [`assistant-ui`](https://github.com/assistant-ui/assistant-ui), where we’re raising the bar for DX and UX in AI apps. It’s a powerful **open source** React SDK built around composable Radix-style primitives and a library of beautiful shadcn-style UI components composed of them. assistant-ui's goal is to make building complex and advanced AI apps as easy as possible -- for both humans and agents.
 
-### 📫 **How to reach me**
-- Email: bassim@shahidy.com
-- LinkedIn: https://linkedin.com/in/bassimshahidy
-- Twitter: [@avgvstvs96](https://x.com/AVGVSTVS96)
-
-### 💡 Skills
+#### Favorite tools and tech
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind,astro,react,nextjs,py,fastapi,git" alt="Skills and Technologies" />
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind,ts,react,nextjs,astro,rust" alt="Skills, Tools, and Technologies" />
   </a>
 </p>
 
 
-### 🧰 Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,vitest,cloudflare,vercel,npm,pnpm,bun,vscode,neovim,bash,nix,github" alt="Tools and Services" />
+    <img src="https://skillicons.dev/icons?i=git,vite,vercel,npm,pnpm,bun,neovim,bash" alt="Tools and Services" />
   </a>
 </p>
+
+
+#### Contact me
+* Email: bassim@shahidy.com
+* Twitter: [@avgvstvs96](https://x.com/AVGVSTVS96)
+* LinkedIn: https://linkedin.com/in/bassimshahidy
+
 
 <!--
 - 🌱 I’m currently learning ...
