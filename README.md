@@ -1,11 +1,11 @@
-### 👋 Hi, I'm Bassim
-An open source engineer obsessed with the **seams between code and people**: APIs, interfaces, and all the tiny details that make software feel _delightful_.
+### 👋 hi, i'm bassim
+i'm an open source engineer obsessed with the seams between code and people: APIs, interfaces, and all the little details that make interacting with software feel delightful.
 
-That includes [react-shiki](https://github.com/AVGVSTVS96/react-shiki/), my popular [Shiki](https://github.com/shikijs/shiki) powered syntax highlighter for React. It provides an intuitive, type-safe API for excellent DX and performance, especially useful for demanding applications like dynamically highlighting code as it's streamed to the client by an LLM.
+i built [react-shiki](https://github.com/AVGVSTVS96/react-shiki/), a popular [shiki](https://github.com/shikijs/shiki) powered syntax highlighter for react. it's got an intuitive, type-safe API and is optimized for performance in demanding react applications, like dynamically highlighting code as it's streamed to the client by an LLM.
 
-At [assistant-ui](https://github.com/assistant-ui/assistant-ui), I’m a Founding Engineer helping raise the bar for DX and UX in AI chat apps. [assistant-ui](https://github.com/assistant-ui/assistant-ui) is a powerful, **open source** React/TypeScript SDK providing composable Radix-style chat primitives and a library of beautiful shadcn-style UI components. assistant-ui's goal is to take the complexity out of building advanced agentic apps -- providing the tools and primitives engineers (and agents) need to build the next generation of agent-powered interfaces and experiences.
+at [assistant-ui](https://github.com/assistant-ui/assistant-ui), i’m a founding engineer working on taking the complexity out of building AI powered apps. [assistant-ui](https://github.com/assistant-ui/assistant-ui) is an **open source** react/typescript SDK providing composable radix-style AI primitives and a library of well crafted shadcn-style UI components. this is the kind of work i most enjoy: designing APIs that make building complex interfaces and experiences feel effortless and composable.
 
-In my free time I contribute to open source projects and build all kinds of hobby and side projects: dev tools, plugins, websites, and anything else that piques my interest. Check out my [repositories](https://github.com/AVGVSTVS96?tab=repositories) to see what I've been working on!
+in my free time i contribute to open source and experiment with building all kinds of side projects: dev tools, plugins, websites, or anything else that catches my interest. check out [my repositories](https://github.com/AVGVSTVS96?tab=repositories) to see what i've been working on.
 
 <!-- 
 #### Tools and Technologies
