@@ -1,9 +1,9 @@
 ### 👋 hi, i'm bassim
-i'm an open source engineer obsessed with the craft. i love building really good software
+i love building really good **open source** software.
 
-i built [react-shiki](https://github.com/AVGVSTVS96/react-shiki/), a popular [shiki](https://github.com/shikijs/shiki) powered syntax highlighter for react. it's got an intuitive, type-safe API and is optimized for performance in demanding react applications, like dynamically highlighting code as it's streamed to the client by an LLM.
+i built [react-shiki](https://github.com/AVGVSTVS96/react-shiki/), a popular [shiki](https://github.com/shikijs/shiki) powered syntax highlighter for react. it's got an intuitive, type-safe API and is optimized for performance in demanding react applications.
 
-at [assistant-ui](https://github.com/assistant-ui/assistant-ui), i’m a founding engineer working on taking the complexity out of building agentic apps. [assistant-ui](https://github.com/assistant-ui/assistant-ui) is an **open source** react/typescript SDK providing composable radix-style AI primitives and a library of well crafted shadcn-style UI components.
+at [assistant-ui](https://github.com/assistant-ui/assistant-ui), i’m a founding engineer working on taking the complexity out of building agentic apps. [assistant-ui](https://github.com/assistant-ui/assistant-ui) is an **open source** react/typescript SDK with radix-style AI primitives and a library of accessible, well crafted shadcn-style UI components.
 
 in my free time i contribute to open source and experiment with building all kinds of side projects: dev tools, plugins, websites, or anything else that catches my interest. check out [my repositories](https://github.com/AVGVSTVS96?tab=repositories) to see what i've been working on.
 
