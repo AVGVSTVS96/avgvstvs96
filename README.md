@@ -10,7 +10,6 @@ in my free time i contribute to open source and experiment with whatever catches
 > - [claude-code-plugins(fork)](https://github.com/AVGVSTVS96/claude-code-plugins): auto-maintained fork of Anthropic's Telegram and Discord plugins to support multiple threads per channel; the minimal compat layer that allows hex to be so capable while being so simple
 > - [herdr(fork)](https://github.com/AVGVSTVS96/herdr): automatic patch application/repo maintenance proof of concept
 > - [prompt-picker](https://github.com/AVGVSTVS96/prompt-picker): search, filter and star every prompt you've sent to your agents. extensible at its core: write your own sources and filters, and point it at any tool
-> - 
 
 <!-- 
 #### Tools and Technologies
