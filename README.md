@@ -1,11 +1,16 @@
 ### 👋 hi, i'm bassim
 i love building really good **open source** software.
 
-i built [react-shiki](https://github.com/AVGVSTVS96/react-shiki/), a popular [shiki](https://github.com/shikijs/shiki) powered syntax highlighter for react. it's got an intuitive, type-safe API and is optimized for performance in demanding react applications.
+author of [react-shiki](https://github.com/AVGVSTVS96/react-shiki/)
 
-at [assistant-ui](https://github.com/assistant-ui/assistant-ui), i’m a founding engineer working on taking the complexity out of building agentic apps. [assistant-ui](https://github.com/assistant-ui/assistant-ui) is an **open source** react/typescript SDK with radix-style AI primitives and a library of accessible, well crafted shadcn-style UI components.
+in my free time i contribute to open source and experiment with whatever catches my interest. see my [repos](https://github.com/AVGVSTVS96?tab=repositories)
 
-in my free time i contribute to open source and experiment with building all kinds of side projects: dev tools, plugins, websites, or anything else that catches my interest. check out [my repositories](https://github.com/AVGVSTVS96?tab=repositories) to see what i've been working on.
+> #### recent notable work (as of oct'26):
+> - [hex](https://github.com/AVGVSTVS96/hex): the most elegantly simple yet capable personal assistant you've ever used. tokens covered by Claude's Max sub; hex has it's own computer and it's minimal architecture extends the Claude Code harness directly
+> - [claude-code-plugins(fork)](https://github.com/AVGVSTVS96/claude-code-plugins): auto-maintained fork of Anthropic's Telegram and Discord plugins to support multiple threads per channel; the minimal compat layer that allows hex to be so capable while being so simple
+> - [herdr(fork)](https://github.com/AVGVSTVS96/herdr): automatic patch application/repo maintenance proof of concept
+> - [prompt-picker](https://github.com/AVGVSTVS96/prompt-picker): search, filter and star every prompt you've sent to your agents. extensible at its core: write your own sources and filters, and point it at any tool
+> - 
 
 <!-- 
 #### Tools and Technologies
