@@ -7,9 +7,10 @@ in my free time i contribute to open source and experiment with whatever catches
 
 > #### recent notable work (as of oct'26):
 > - [hex](https://github.com/AVGVSTVS96/hex): the most elegantly simple yet capable personal assistant you've ever used. tokens covered by Claude's Max sub; hex has it's own computer and it's minimal architecture extends the Claude Code harness directly
-> - [claude-code-plugins(fork)](https://github.com/AVGVSTVS96/claude-plugins-official) auto-maintained fork of Anthropic's Telegram and Discord plugins to support multiple threads per channel; the minimal compat layer that allows hex to be so capable while being so simple
-> - [herdr(fork)](https://github.com/AVGVSTVS96/herdr): automatic patch application/repo maintenance proof of concept
+> - [seqno](https://github.com/AVGVSTVS96/seqno): near 1:1 clone of [logseq](https://logseq.com/), a notes app i used to love but became unreliable after losing trust in it
+> - [commonplace](https://github.com/AVGVSTVS96/commonplace): your personal data kit, this template give you everything you need to collect all your data in one place and let your agents access it
 > - [prompt-picker](https://github.com/AVGVSTVS96/prompt-picker): search, filter and star every prompt you've sent to your agents. extensible at its core: write your own sources and filters, and point it at any tool
+> - many more in my [repositories](https://github.com/AVGVSTVS96?tab=repositories)!
 
 <!-- 
 #### Tools and Technologies
