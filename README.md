@@ -1,6 +1,5 @@
 ### 👋 hi, i'm bassim
 i love building really good **open source** software.
-https://github.com/AVGVSTVS96/claude-plugins-official
 author of [react-shiki](https://github.com/AVGVSTVS96/react-shiki/)
 
 in my free time i contribute to open source and experiment with whatever catches my interest. see my [repos](https://github.com/AVGVSTVS96?tab=repositories)
