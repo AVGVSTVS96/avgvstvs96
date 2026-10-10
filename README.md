@@ -1,4 +1,4 @@
-,### 👋 hi, i'm bassim
+### 👋 hi, i'm bassim
 i love building really good **open source** software.
 https://github.com/AVGVSTVS96/claude-plugins-official
 author of [react-shiki](https://github.com/AVGVSTVS96/react-shiki/)
@@ -9,8 +9,8 @@ in my free time i contribute to open source and experiment with whatever catches
 > - [hex](https://github.com/AVGVSTVS96/hex): the most elegantly simple yet capable personal assistant you've ever used. tokens covered by Claude's Max sub; hex has it's own computer and it's minimal architecture extends the Claude Code harness directly
 > - [seqno](https://github.com/AVGVSTVS96/seqno): near 1:1 clone of [logseq](https://logseq.com/), a notes app i used to love but dropped after watching it become unreliable, sluggish, and eventually unusable. a complete rewrite with the same face & feel that proves electron can be blazing fast, and we dont need to tolerate or concede to shitty software any more
 > - [commonplace](https://github.com/AVGVSTVS96/commonplace): your personal data kit, this template give you everything you need to collect all your data in one place and let your agents access it
-> - [retake]: placeholder
-> - [enclave]: placeholder
+> - retake: placeholder
+> - enclave: placeholder
 > - [prompt-picker](https://github.com/AVGVSTVS96/prompt-picker): search, filter and star every prompt you've sent to your agents. extensible at its core: write your own sources and filters, and point it at any tool
 > - many more in my [repositories](https://github.com/AVGVSTVS96?tab=repositories)!
 
